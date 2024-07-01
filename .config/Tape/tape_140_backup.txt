@@ -1,0 +1,111 @@
+{
+	"COnvit1718949828285": {
+		"name": "COnvit",
+		"states": "priority,working,submitted,approved,done",
+		"items": [
+			{
+				"id": "1401718946511830100192",
+				"name": "Write README for Convit.",
+				"state": ""
+			},
+			{
+				"id": "1401718946536086918909",
+				"name": "Add functionality to hook into Git.",
+				"state": ""
+			},
+			{
+				"id": "1401718947697614840610",
+				"name": "Add missing Commit Footer options.",
+				"state": ""
+			},
+			{
+				"id": "1401718949432618408513",
+				"name": "Add command line functionality.",
+				"state": ""
+			},
+			{
+				"id": "1401718949927166193506",
+				"name": "Write documentation for Convit.",
+				"state": ""
+			},
+			{
+				"id": "1401718954036943504568",
+				"name": "Add missing Commit Types.",
+				"state": ""
+			},
+			{
+				"id": "1401718954102631196249",
+				"name": "Implement logic for editing commit messages.",
+				"state": ""
+			}
+		],
+		"vis": "true",
+		"pin": "false"
+	},
+	"Artriver1718956133652": {
+		"name": "Artriver",
+		"states": "priority,working,submitted,approved,done",
+		"items": [
+			{
+				"id": "1401718957085355451106",
+				"name": "Apply project management to scope functionality, dependencies, roadmap, milestones and timeline.",
+				"state": "one"
+			},
+			{
+				"id": "1401718957126236578739",
+				"name": "Refine CLI functionality.",
+				"state": "two"
+			},
+			{
+				"id": "1401718957176452331432",
+				"name": "Research commonly used audio file formats for digital audio.",
+				"state": ""
+			},
+			{
+				"id": "140171895721905293363",
+				"name": "Research project data file formats for popular DAWs.",
+				"state": ""
+			},
+			{
+				"id": "1401718957306516983735",
+				"name": "Research DAW architecture and internal functionality.",
+				"state": ""
+			}
+		],
+		"vis": "true",
+		"pin": "false"
+	},
+	"SoUNDRY1718956879629": {
+		"name": "SoUNDRY",
+		"states": "priority,working,submitted,approved,done",
+		"items": [
+			{
+				"id": "14017189567726329473",
+				"name": "Dedupe EG/LFO variants to be defined once and reused.",
+				"state": ""
+			},
+			{
+				"id": "1401718956790041931173",
+				"name": "Implement refinement types.",
+				"state": "two"
+			},
+			{
+				"id": "1401718956819305221952",
+				"name": "Implement parsing with nom.",
+				"state": "one"
+			},
+			{
+				"id": "1401718956834242401102",
+				"name": "Add Cakewalk specific codes.",
+				"state": ""
+			},
+			{
+				"id": "1401718956855233927589",
+				"name": "Add v2 opcodes for:  Sample Playback  Voice LifeCycle  Midi Conditions  Internal Conditions  Triggers  Amplifier  EQ  Filter  Pitch  LFO  Curves  Effects  Loading  Wavetable Oscillator",
+				"state": "two"
+			}
+		],
+		"vis": "true",
+		"pin": "false"
+	}
+}
